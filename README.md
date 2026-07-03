@@ -19,7 +19,8 @@
 <!-- │  Suba sua imagem no repositório e aponte o caminho aqui │ -->
 <!-- └─────────────────────────────────────────────────────────┘ -->
 
-<img width="220" height="280" alt="WhatsApp Image 2026-06-29 at 5 26 21 PM" src="https://github.com/user-attachments/assets/246a5f68-f6c2-4f2f-aa4a-5ac1f2ac0c62" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-29 at 5 26 21 PM" src="https://github.com/user-attachments/assets/5099fc7c-dbc5-4f83-90b8-24ee6d0947d0" />
+
 
 <br/>
 
